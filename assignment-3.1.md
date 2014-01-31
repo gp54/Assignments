@@ -1,5 +1,4 @@
-```
-javascript
+```javascript
 /*
 
     countUp.js
@@ -134,3 +133,4 @@ function countUp(target, startVal, endVal, decimals, duration) {
 // numAnim.start(someMethodToCallOnComplete);
 ```
 * The code could be spaced out more inbetween blocks to make it easier to read
+* 
